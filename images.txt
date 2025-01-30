@@ -1,2 +1,3 @@
 talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
+lscr.io/linuxserver/calibre-web
