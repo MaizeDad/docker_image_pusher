@@ -1,1 +1,3 @@
 foamzou/melody
+mysql:8.0
+redis:latest
